@@ -1,4 +1,4 @@
-Arabic Question-Answering System (RAG Architecture)
+##Arabic Question-Answering System (RAG Architecture)
 
 ## Project Overview
 This repository contains the architecture design and implementation framework for a high-performance Arabic Retrieval-Augmented Generation (RAG) system developed to optimize information retrieval and text generation in Arabic NLP. The system is tailored to handle dense and complex Arabic linguistic structures using the ArabicaQA dataset.
